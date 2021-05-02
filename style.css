@@ -1,0 +1,16 @@
+ 
+  .result {
+      padding: 1rem;
+    color: white;
+  }
+  .container-style {
+    background-color: #333a56;
+  }
+  .btn-info {
+    background: #5e6ea7;
+    color: white;
+    width: 100%;
+  }
+  .container-style p {
+    color: white;
+  }
