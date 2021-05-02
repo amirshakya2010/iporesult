@@ -5,4 +5,4 @@
 - * Type chrome://extensions/ in address bar
 - * Set Developer mode to enable
 - * Click on `Load unpacked` 
-- * Select the folder 
+- * Select the folder and check your ipo result easily.
